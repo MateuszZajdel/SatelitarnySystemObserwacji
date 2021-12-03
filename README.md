@@ -1,7 +1,7 @@
 # SatelitarnySystemObserwacji
 Przedmiot Zarządzanie Projektami Infromatycznymi
 
-Naszym projektem jest...
+Nasz projekt zajmujekt ma za zadanie wysłać satelity w przestrzeń kosmiczną. Będą one badać warunki atmosferyczne na Ziemi i przesyłać do segmentu naziemnego. Następnie usługi te będą sprzedawane. Celem projektu jest uzyskanie przez Nas korzyści finansowych, doświadczenia, jak i reputacji i rozpoznawalności naszej marki.
 
 ## Najważniejsze produkty projetku.
 
